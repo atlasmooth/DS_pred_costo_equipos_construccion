@@ -1,0 +1,2 @@
+# Force-include CSV files in data/ despite global gitignore rules
+!data/*.csv
